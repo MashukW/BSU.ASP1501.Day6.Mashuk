@@ -1,0 +1,25 @@
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Start of block processing TYR in which adding books
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main This book already exists in the list
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main    в BookService.BookListService.AddBook(Book book) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\BookService\BookListService.cs:строка 41
+   в ConsoleUI.UserInterface.Main(String[] args) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\ConsoleUI\UserInterface.cs:строка 39
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Start of block processing TYR in which remove book
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Book to be deleted was not found
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main    в BookService.BookListService.RemoveBook(Book book) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\BookService\BookListService.cs:строка 60
+   в ConsoleUI.UserInterface.Main(String[] args) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\ConsoleUI\UserInterface.cs:строка 52
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Sorting internal list books by Title
+AppDomain._nExecuteAssembly => UserInterface.Main => UserInterface.DisplayBook Start Method display the list of books on the console
+AppDomain._nExecuteAssembly => UserInterface.Main => UserInterface.DisplayBook Finish method display the list of books on the console
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Start of block processing TYR in which adding books
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main This book already exists in the list
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main    в BookService.BookListService.AddBook(Book book) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\BookService\BookListService.cs:строка 41
+   в ConsoleUI.UserInterface.Main(String[] args) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\ConsoleUI\UserInterface.cs:строка 39
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Start of block processing TYR in which remove book
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Book to be deleted was not found
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main    в BookService.BookListService.RemoveBook(Book book) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\BookService\BookListService.cs:строка 60
+   в ConsoleUI.UserInterface.Main(String[] args) в C:\Users\mashu\Desktop\EPAM\Day6\HomeworkDay6\ConsoleUI\UserInterface.cs:строка 52
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Sorting internal list books by Title
+AppDomain._nExecuteAssembly => UserInterface.Main => UserInterface.DisplayBook Start Method display the list of books on the console
+AppDomain._nExecuteAssembly => UserInterface.Main => UserInterface.DisplayBook Finish method display the list of books on the console
+AppDomain.ExecuteAssembly => AppDomain._nExecuteAssembly => UserInterface.Main Find list book where number of page = 189
+AppDomain._nExecuteAssembly => UserInterface.Main => UserInterface.DisplayBook Start Method display the list of books on the console
+AppDomain._nExecuteAssembly => UserInterface.Main => UserInterface.DisplayBook Finish method display the list of books on the console
